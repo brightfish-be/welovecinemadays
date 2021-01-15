@@ -4,10 +4,10 @@
 
 ## Work flow
 
-* voucher request
-* voucher issuance
-* voucher validation
-* voucher reporting
+* [voucher request](voucher_request.md)
+* [voucher issuance](voucher_issue.md)
+* [voucher validation](voucher_validation.md)
+* [voucher reporting](voucher_reporting.md)
 
 
 ## Technical specifications

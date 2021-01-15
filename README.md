@@ -1,4 +1,4 @@
 # We Love Cinema Days (Belgium)
 
-	Edition 2021
+Source for [brightfish-be.github.io/welovecinemadays](https://brightfish-be.github.io/welovecinemadays)
 
